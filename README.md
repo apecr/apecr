@@ -1,8 +1,14 @@
-# Alberto Pelayo Eyo Castro-Rial
+## Alberto Pelayo Eyo Castro-Rial
 
-## Bio
+### Bio
 
 Software Engineer in [Sngular Spain][1], father of a beautiful daughter. Football and chess fan.
+
+### 📫 How to reach me:
+
+* [Linkedin][2].
+* [Github][3].
+* [CodersRank][4].
 
 <!--
 **apecr/apecr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +26,6 @@ Here are some ideas to get you started:
 -->
 
 [1]: https://www.sngular.com/
+[2]: https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/
+[3]: https://github.com/apecr
+[4]: https://profile.codersrank.io/user/apecr
