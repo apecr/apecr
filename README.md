@@ -6,7 +6,7 @@ Software Engineer in [Sngular Spain][1], father of a beautiful daughter, husband
 
 My software interests are **Cloud Development**, **Python**, **Node.js** (I love async/await!) and **Quality Assurance** (**Sonarqube**, **ATDD**, **Xtreme Programming**).
 
-My favaourite paradigm in software is **Functional Programming**.
+My favourite paradigm in software is **Functional Programming**.
 
 ### 📫 How to reach me:
 
