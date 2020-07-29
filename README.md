@@ -2,7 +2,7 @@
 
 ### Bio
 
-Software Engineer in [Sngular Spain][1], father of a beautiful daughter. Football and chess fan.
+Software Engineer in [Sngular Spain][1], father of a beautiful daughter, husband of an amazing person. Football and chess fan.
 
 My software interests are **Cloud Development**, **Python**, **Node.js** (I love async/await!) and **Quality Assurance** (**Sonarqube**, **ATDD**, **Xtreme Programming**).
 
