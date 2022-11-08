@@ -2,7 +2,7 @@
 
 ### Bio
 
-Software Engineer in [Sngular Spain][1], father of a beautiful daughter, husband of an amazing person. Football and chess fan.
+Software Engineer in [Back Market][1], father of a beautiful daughter, husband of an amazing person. Football and chess fan.
 
 My software interests are **Cloud Development**, **Python**, **Node.js** (I love async/await!) and **Quality Assurance** (**Sonarqube**, **ATDD**, **Xtreme Programming**).
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1]: https://www.sngular.com/
+[1]: https://www.linkedin.com/company/back-market/
 [2]: https://www.linkedin.com/in/alberto-eyo-castro-rial-0aa741121/
 [3]: https://github.com/apecr
 [4]: https://profile.codersrank.io/user/apecr
